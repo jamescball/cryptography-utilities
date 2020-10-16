@@ -4,7 +4,7 @@ A utility tool for working with psudo random generated numbers.
 
 # Setup
 1. Download the files from the Releases tab
-2. Grab a dictionary file, I used [this one](https://github.com/dwyl/english-words) and drop it in the folder with the .exe
+2. Grab a dictionary file, I used [this one](https://github.com/dwyl/english-words), rename it to dictionary.txt and drop it in the folder with the .exe
 3. Profit
 
 # Examples
