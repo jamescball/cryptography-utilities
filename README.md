@@ -18,4 +18,4 @@ This will encrypt the string "Hello World" with the key 123
 This will decrypt the string "SOME STRING TO DECRYPT" using the key 123
 
 ``` prng_utilities.exe -b -s "SOME STRING TO DECRYPT" ```
-Bruteforce the key using a dictionary attack that checks every word in the string.
+Bruteforce the key using a dictionary attack that checks every word in the string. (Currently bruteforcing 1 word is not an option as the program is looking for multiple string matches to determine the correct key has been found.)
