@@ -1,6 +1,7 @@
-# prng-utilities
+# Cryptography Utilities
+Previously prng-utilities
 
-A utility tool for working with psudo random generated numbers.
+A utility tool for working with psudo random generated numbers & cryptography. Updated as needed.
 
 # Setup
 1. Download the files from the Releases tab
